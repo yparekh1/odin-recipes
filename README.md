@@ -7,3 +7,8 @@ I have learned how to use terminal effectively by strictly writing everything in
 Learned a bunch of HTML tags and how to use them.
 
 On the next one.
+
+
+Apr 18 2025
+
+Learned css and applied styles to the page. Basic style.
